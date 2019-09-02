@@ -1,4 +1,4 @@
-# go-modules-project-a
+# How to work with Go modules with 2 different major versions of a module
 Demonstrating Go Modules in action imports of different major versions
 
 (This project assumes the user is using a Go version which includes support for Go modules)
